@@ -10,3 +10,4 @@ Git status
 git add 
 git branch
 git pull
+git remote
