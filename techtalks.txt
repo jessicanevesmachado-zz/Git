@@ -1,0 +1,2 @@
+Conhecendo o Git
+O git é um sistema que ajuda a gerenciar arquivos 
