@@ -11,3 +11,4 @@ git add
 git branch
 git pull
 git log
+git remote
