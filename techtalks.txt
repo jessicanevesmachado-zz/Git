@@ -1,2 +1,5 @@
 Conhecendo o Git
 O git é um sistema que ajuda a gerenciar arquivos 
+
+Curiosidades do git
+Ele foi desenvolvido em 2005 pelo desenvolvedor do linux
