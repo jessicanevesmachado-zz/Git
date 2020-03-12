@@ -9,3 +9,4 @@ Git init
 Git status
 git add 
 git branch
+git pull
